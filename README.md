@@ -2,7 +2,7 @@
 Multi users live painting program implementing datagram
 socket using UDP.
 
-Data are managed in DatagramPacket packets.
+The data is managed in DatagramPacket packets.
 For sending: data, size, host, port.
 For receiving: data, data size. 
 
